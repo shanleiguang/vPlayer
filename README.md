@@ -99,7 +99,7 @@ Add music files via AirDrop, the Files app, or SMB.
 
 ## App Store
 
-**[vPlayer HiFi on the App Store](https://apps.apple.com/app/id6783144375)**
+**[vPlayer HiFi on the App Store](https://apps.apple.com/cn/app/vplayer-hifi/id6783141736)**
 
 - **vPlayer Pro** — one-time purchase: unlocks SRC, FIR, DSD, SACD, Room EQ, SMB, Memory Playback
 - Samba and SACD-R decoding also available individually

@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6783144375"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"></a>
+  <a href="https://apps.apple.com/cn/app/vplayer-hifi/id6783141736"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"></a>
 </p>
 
 ---

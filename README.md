@@ -5,7 +5,7 @@
 <h1 align="center">vPlayer HiFi</h1>
 
 <p align="center">
-  <strong>Very Pure Layer</strong> — a layered audio pipeline that makes every processing step visible and independently controllable.
+  <i>vPlayer means Very Pure Layer</i> — a layered audio pipeline that makes every processing step visible and independently controllable.
 </p>
 
 <p align="center">
@@ -14,17 +14,13 @@
 
 ---
 
-## Why vPlayer
+## Why vPlayer HiFi
 
-Apple Music doesn't support FLAC, DSD, or SACD-ISO. Most HiFi players on the App Store require subscriptions or transcode in the cloud.
-
-vPlayer runs a **complete audio engine locally on your iPhone** — sample-rate conversion, oversampling, DSD decoding, and room correction all happen offline. Your files never leave your device.
-
-Breathe life back into the music collection sitting silent on your NAS and hard drives — the one you spent years curating, organizing, and never quite found the right player for.
+Apple Music doesn't support FLAC, DSD, or SACD-ISO. Most HiFi players on the App Store require subscriptions or transcode in the cloud. vPlayer HiFi runs a **complete audio engine locally on your iPhone** — sample-rate conversion, oversampling, DSD decoding, and room correction all happen offline. Your files never leave your device. Breathe life back into the music collection sitting silent on your NAS and hard drives — the one you spent years curating, organizing, and never quite found the right player for.
 
 ## Philosophy
 
-iPhone's built-in DAC is limited to 44.1 / 48 kHz — that's the ceiling Apple ships. vPlayer's **FIR oversampling engine** pushes beyond it: upsample to 176.4 / 352.8 / 705.6 kHz in real time, with 5 filter types to match your taste. Every step in the pipeline — SRC → FIR → Dither → EQ — can be toggled on/off independently for A/B comparison. Find the combination that pleases *your* ears.
+iPhone's built-in DAC is limited to 44.1 / 48 kHz — that's the ceiling Apple ships. vPlayer's **DSD Decoder and SRC/FIR oversampling engine** pushes beyond it to 176.4 / 352.8 kHz in real time, with some build-int filter types to match your taste. Every step in the pipeline — SRC → FIR → Dither → EQ — can be toggled on/off independently for A/B comparison. Find the combination that pleases *your* ears.
 
 ## Features
 
@@ -42,26 +38,27 @@ iPhone's built-in DAC is limited to 44.1 / 48 kHz — that's the ceiling Apple s
 
 ### Supported Formats
 
-WAV · FLAC · AIFF · MP3 · M4A · DSF · DFF · SACD ISO
+WAV · FLAC · AIFF · MP3 · M4A · DSF · DFF · SACD-R ISO
 
 ### Ecosystem
 
 - **AirPlay** — stream to Studio Display, Apple TV, HomePod. Route-adaptive IO buffer tuning
 - **Bluetooth** — AAC / aptX / LDAC handled automatically by iOS. Automatic AudioUnit rebuild on route change
+- **External DAC** — working with your external DAC
 - **One Apple ID** — purchase once, works across your iPhones and iPads
 
 ---
 
 ## Versions
 
-| | vPlayer HiFi | vPlayer HiFi 7-X |
+| | vPlayer HiFi | vPlayer HiFi Youth |
 |---|---|---|
 | **iOS** | 17.0+ | 15.0+ |
 | **Devices** | iPhone 15 Pro Max and later | iPhone 7 through iPhone X |
 | **DSP** | Full pipeline: DSD512, 127-tap FIR | Same Pro features, optimized for older hardware |
 | **Design** | Light / Dark themes | Dark mode |
 
-> Turn your retired iPhone 7 into a dedicated HiFi transport — plug it into a DAC and leave it permanently connected to your stereo.
+> Turn your retired iPhone 7~X into a dedicated HiFi transport — plug it into a DAC and leave it permanently connected to your stereo.
 
 ---
 
@@ -101,8 +98,7 @@ Add music files via AirDrop, the Files app, or SMB.
 
 **[vPlayer HiFi on the App Store](https://apps.apple.com/cn/app/vplayer-hifi/id6783141736)**
 
-- **vPlayer Pro** — one-time purchase: unlocks SRC, FIR, DSD, SACD, Room EQ, SMB, Memory Playback
-- Samba and SACD-R decoding also available individually
+- **vPlayer Pro** — one-time purchase: unlocks SRC, FIR, DSD, SACD, Room EQ, SMB, Memory Playback. Some Lab features are available individually.
 
 ---
 

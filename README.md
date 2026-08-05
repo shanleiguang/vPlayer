@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.jpg" width="128" alt="vPlayer HiFi">
+  <img src="preview.png" width="256" alt="vPlayer HiFi Preview">
 </p>
 
 <h1 align="center">vPlayer HiFi</h1>
@@ -105,6 +105,10 @@ Add music files via AirDrop, the Files app, or SMB.
 - Samba and SACD-R decoding also available individually
 
 ---
+
+<p align="center">
+  <img src="icon.jpg" width="128" alt="vPlayer HiFi">
+</p>
 
 *"v" stands for Very Pure Layer — and also for violin, our app icon.*
 

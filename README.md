@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="128" alt="vPlayer HiFi">
+  <img src="icon.jpg" width="128" alt="vPlayer HiFi">
 </p>
 
 <h1 align="center">vPlayer HiFi</h1>
